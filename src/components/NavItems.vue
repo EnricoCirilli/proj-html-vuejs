@@ -40,11 +40,12 @@ ul {
     list-style-type: none;
     a {
       text-decoration: none;
-      color: $white;
+      color: white;
       padding: 0 20px;
-      &.active, &:hover  {
-        color: $primary-color;
-      }
+      //  &.active, &:hover  
+      // {
+      //   color:  #816CB2; ;
+      // }
     }
   }
 }

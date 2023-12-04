@@ -78,6 +78,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+
 //// LOGO
 #logo {
   height: 30px;
@@ -85,7 +86,7 @@ export default {
 //// GENERAL HEADER STYLE
 //* Background header
 .bg-header {
-  background-image: url("../../assets/images/header-image-homepage.jpg");
+  background-image: url("src/assets/images/header-image-homepage.jpg");
   height: 74vh;
   background-size: cover;
 }

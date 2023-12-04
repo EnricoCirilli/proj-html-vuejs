@@ -31,6 +31,13 @@ un footer.vue
 7 Popolare le voci di menù di Header e Footer dinamicamente, tramite delle props, creando una struttura dati idonea.
 7.1 nello script e template di appvue collego con import header, main e footer.
 7.2 nel script dei singoli file collego con export default
+7.3 collego header ad figlio NavItems 
+7.4 creo data e inserisco un array di oggetti che fa riferimento alla nav
+7.5 nel template inserisco le parti necessarie come logo / nav items / il bottone da cliccare/ il testo statico
+7.6 inserisco dello stile per il logo, il bg header, metto tutta section in display flex.
+7.7 collego navitems tramite props nello script
+7.8 nel template di navitems codtruisco la lista di items e il button da cliccare
+7.9 aggiungo dello stile sempre a navitems
 
 
 
