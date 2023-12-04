@@ -6,7 +6,7 @@ Visualizzo consegna grafica e tutti gli elementi necessari per riprodurre il dis
 posiziono l'immagine. ricevuta dal grafico su figma per ricrearmi una struttura di partenza.
 quindi individuerò come struttturare L'header e la navigation bar,
 le parti main del sito per poi finire con il footer.
-creo il progetto su vue/vite e creo lo scaffolding, quindi andrò a installare :
+creo il progetto su vue/vite e creo lo scaffolding, quindi andrò a installarele dipendenze:
 fontawesome, bootstrap , scss.
 4.git hub publish ok.
 5.Elimino i file superflui
