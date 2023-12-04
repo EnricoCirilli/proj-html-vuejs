@@ -1,3 +1,9 @@
+@use "./partials/variables.scss" as *;
+
+@import "bootstrap/scss/bootstrap.scss";
+
+
+
 //// RESET
 * {
     margin: 0;
@@ -30,10 +36,10 @@ body {
 .btn-primary-color {
     border-radius: 1px;
     border: none;
-    background-color: #816CB2;
+    background-color: #39afbb;
     color: white;
     &:hover {
       background-color: white;
-      color: #816CB2;
+      color: #39afbb;
     }
 }

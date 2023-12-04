@@ -42,10 +42,10 @@ ul {
       text-decoration: none;
       color: white;
       padding: 0 20px;
-      //  &.active, &:hover  
-      // {
-      //   color:  #816CB2; ;
-      // }
+        &.active, &:hover  
+      {
+         color:  #39afbb; ;
+       }
     }
   }
 }

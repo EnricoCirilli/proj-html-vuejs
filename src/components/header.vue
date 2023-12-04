@@ -14,14 +14,14 @@ export default {
         {
           id: "1",
           text: "home",
-          url: "#",
-          current: true,
+           url: "#",
+           current: true,
         },
         {
-          id: "2",
+           id: "2",
           text: "about",
-          url: "#",
-          current: false,
+           url: "#",
+           current: false,
         },
         {
           id: "3",
@@ -49,7 +49,7 @@ export default {
       <a href="#">
         <img
           id="logo"
-          src="../images/medical_logo_1x_light.png"
+          src="./assets/images/medical_logo_1x_light.png"
           alt="logo"
         />
       </a>
@@ -96,5 +96,29 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.text-spotlight {
+  width: 500px;
+  margin-top: 100px;
+  h2 {
+  font-weight: lighter;
+  font-size: 40px;
+  color: white;
+  margin-bottom: 15px;
+  .text-primary-color {
+    color: #39afbb;
+  }
+}
+p {
+  color: white;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+//* Spotlight button style 
+.btn-spotlight {
+  font-size: 12px;
+  font-weight: lighter;
+  padding: 6px 20px;
+}
 }
 </style>
