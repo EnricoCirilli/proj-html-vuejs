@@ -1,17 +1,11 @@
 <script>
-import WelcomeSection from './WelcomeSection.vue';
 
-export default {
-  name: "",
-  components: {
-    WelcomeSection,
-  },
-  };
+
 
 </script>
 
 <template>
-  
+  <h1>ciao</h1>
 
 </template>
 
