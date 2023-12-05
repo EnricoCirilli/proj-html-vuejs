@@ -40,6 +40,8 @@ un footer.vue
 7.9  aggiungo dello stile sempre a navitems
 
 8. creo dei componenti figli di Main.vue
+8.1 creo la welcome section
+8.2 apporto una modifica alle main section per tenere tutto in ordine creo delle cartelle per header, main e footer per tenere tutto in ordine
 
 
 

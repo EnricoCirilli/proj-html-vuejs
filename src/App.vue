@@ -4,7 +4,7 @@ import Header from "./components/Header.vue";
 // Main component import
 import Main from "./components/Main.vue";
 //Footer component import
-import Footer from "./components/Footer.vue";
+import Footer from "./components/Footer/Footer.vue";
 
 export default {
   name: "App",
