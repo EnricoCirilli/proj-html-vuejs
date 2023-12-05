@@ -60,7 +60,7 @@ export default {
         </div>
         <!-- Departments -->
         <div class="col departments-info">
-          <h6 class="uppercase">medical depaertments</h6>
+          <h6 class="uppercase">medical departments</h6>
           <ul>
             <li v-for="(department, index) in departments" :key="index">
               <i class="fas fa-chevron-circle-right"></i>
