@@ -2,11 +2,12 @@
 import WelcomeSection from './WelcomeSection.vue';
 
 export default {
-  name: "Section",
+  name: "",
   components: {
     WelcomeSection,
   },
-}
+  };
+
 </script>
 
 <template>

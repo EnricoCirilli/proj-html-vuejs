@@ -1,15 +1,15 @@
 <script>
 // Import component title section
-import WelcomeTitle from "./WelcomeCard.vue";
+import SectionTitle from "./SectionTitle.vue";
 
 // Import component card
-import WelcomeCard from "./WelcomeTitle.vue";
+import SectionCard from "./SectionTitle.vue";
 
 export default {
   name: "WelcomeMain",
   components: {
-    WelcomeTitle,
-    WelcomeCard,
+    SectionTitle,
+    SectionCard,
   },
 data() {
     return {
@@ -48,9 +48,7 @@ data() {
 
 <template>
 
-<section>
- 
-</section>
+
 
 </template>
 
