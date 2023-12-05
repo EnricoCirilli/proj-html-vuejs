@@ -1,9 +1,9 @@
 <script>
 // Header component import
 import Header from "./components/Header.vue";
-//// Main component import
+// Main component import
 import Main from "./components/Main.vue";
-//// Footer component import
+//Footer component import
 import Footer from "./components/Footer.vue";
 
 export default {

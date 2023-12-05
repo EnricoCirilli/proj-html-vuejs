@@ -26,14 +26,14 @@ export default {
   
   <style lang="scss" scoped>
 
-  //// NAV-BAR STYLE
+  // NAV-BAR STYLE
 #nav-bar {
   display: flex;
   align-items: center;
   font-size: 10px;
   font-weight: lighter;
 }
-//* Style nav-bar item 
+// Style nav-bar item 
 ul {
   display: flex;
   li {
@@ -49,7 +49,7 @@ ul {
     }
   }
 }
-//* Button nav-bar style
+// Button nav-bar style
 button {
   font-size: 10px;
   font-weight: lighter;

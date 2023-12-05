@@ -1,5 +1,5 @@
 <script>
-//// Nav component import
+// Nav component import
 import NavItems from "./NavItems.vue";
 
 export default {
@@ -9,7 +9,7 @@ export default {
   },
   data() {
     return {
-      //* Navigation bar data array
+      // Barra di navigazione e data array
       nav: [
         {
           id: "1",
@@ -79,12 +79,13 @@ export default {
 
 <style lang="scss" scoped>
 
-//// LOGO
+// LOGO
 #logo {
   height: 30px;
 }
-//// GENERAL HEADER STYLE
-//* Background header
+// GENERAL HEADER STYLE
+
+// Background header
 .bg-header {
   background-image: url("src/assets/images/header-image-homepage.jpg");
   height: 74vh;
