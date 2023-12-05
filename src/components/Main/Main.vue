@@ -1,18 +1,16 @@
 <script>
-import WelcomeMain from './WelcomeMain.vue';
+import WelcomeSection from './WelcomeSection.vue';
 
 export default {
-  name: "Main",
+  name: "Section",
   components: {
-    WelcomeMain,
+    WelcomeSection,
   },
 }
 </script>
 
 <template>
-  <main>
-    <WelcomeMain />
-  </main>
+  
 
 </template>
 

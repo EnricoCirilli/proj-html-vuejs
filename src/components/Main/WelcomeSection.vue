@@ -1,30 +1,40 @@
 <script>
+// Import component title section
+import WelcomeTitle from "./WelcomeCard.vue";
+
+// Import component card
+import WelcomeCard from "./WelcomeTitle.vue";
+
 export default {
   name: "WelcomeMain",
+  components: {
+    WelcomeTitle,
+    WelcomeCard,
+  },
 data() {
     return {
       // Welcome info data array
       welcomeInfo: [
         {
-          icon: require("src/assets/images/icon-1.png"),
+          icon: "src/assets/images/icon-1.png",
           url: "#",
           title: "same day appointments",
           text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
         },
         {
-          icon: require("src/assets/images/icon-2.png"),
+          icon: "src/assets/images/icon-2.png",
           url: "#",
           title: "world class facilities",
           text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
         },
         {
-          icon: require("src/assets/images/icon-3.png"),
+          icon: "src/assets/images/icon-3.png",
           url: "#",
           title: "expert doctors",
           text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
         },
         {
-          icon: require("src/assets/images/icon-4.png"),
+          icon: "src/assets/images/icon-4.png",
           url: "#",
           title: "complementary therapies",
           text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
@@ -38,7 +48,9 @@ data() {
 
 <template>
 
-
+<section>
+ 
+</section>
 
 </template>
 
@@ -46,6 +58,15 @@ data() {
 
 <style lang="scss" scoped>
 
-
+#welcome-section {
+  margin-bottom: 30px;
+}
+//? Hover effects
+.card-info li:hover a h4 {
+  color: #3aafbf;
+}
+.card-info li:hover a p {
+  color: #46525f;
+}
 
 </style>
