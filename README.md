@@ -43,7 +43,8 @@ un footer.vue
 8.1 creo la welcome section
 8.2 apporto una modifica alle main section per tenere tutto in ordine creo delle cartelle per header, main e footer per tenere tutto in ordine
 8.3 nella Welcome section creo un array dati
-
+8.4 creo altre due componenti sotto main da collegare welcome section
+WelcomeTitle.vue e WelcomeCard.vue
 
 
 
