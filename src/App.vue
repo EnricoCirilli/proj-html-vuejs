@@ -1,6 +1,6 @@
 <script>
 // Header component import
-import Header from "./components/Header.vue";
+import Header from "./components/Header/Header.vue";
 // Main component import
 import Main from "./components/Main/Main.vue";
 //Footer component import

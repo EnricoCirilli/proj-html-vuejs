@@ -1,6 +1,6 @@
 <script>
 // Nav component import
-import NavItems from "./NavItems.vue";
+import NavItems from "../NavItems.vue";
 
 export default {
   name: "Header",
