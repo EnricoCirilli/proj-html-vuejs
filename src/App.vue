@@ -2,7 +2,7 @@
 // Header component import
 import Header from "./components/Header.vue";
 // Main component import
-import Main from "./components/Main.vue";
+import Main from "./components/Main/Main.vue";
 //Footer component import
 import Footer from "./components/Footer/Footer.vue";
 
