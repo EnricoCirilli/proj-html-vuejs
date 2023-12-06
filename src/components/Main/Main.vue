@@ -60,7 +60,9 @@
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
     </div>
     <div class="card-footer">
-      <small class="text-body-secondary">Last updated 3 mins ago</small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
     </div>
   </div>
   <div class="card">
@@ -70,7 +72,9 @@
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
     </div>
     <div class="card-footer">
-      <small class="text-body-secondary">Last updated 3 mins ago</small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
     </div>
   </div>
   <div class="card">
@@ -80,7 +84,9 @@
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
     </div>
     <div class="card-footer">
-      <small class="text-body-secondary">Last updated 3 mins ago</small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
+      <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
     </div>
   </div>
 </div>
