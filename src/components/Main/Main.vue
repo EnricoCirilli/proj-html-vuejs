@@ -10,40 +10,34 @@
     <h1 class="text-center">Welcome To Avada Health</h1>
     <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt maiores nam dolore vel
       molestiae quasi reiciendis nemo repellendus nisi accusamus.</p>
+
     <div class="card-group">
       <div class="card border-light none">
         <img src="/src/assets/images/icon-1.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">SAME DAY APPOINMENT</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
-            This content is a little bit longer.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+          <h5 class="card-title text-center fs-6 text-body-tertiary">SAME DAY APPOINMENTS</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam, incidunt!.</p>
         </div>
       </div>
       <div class="card border-light none">
         <img src="/src/assets/images/icon-2.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">WORLD CLASS FACILITIES</h5>
+          <h5 class="card-title text-center fs-6 text-body-tertiary">WORLD CLASS FACILITIES</h5>
           <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
         </div>
       </div>
       <div class="card border-light none">
         <img src="/src/assets/images/icon-3.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
-            This card has even longer content than the first to show that equal height action.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+          <h5 class="card-title text-center fs-6 text-body-tertiary">Card title</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, laboriosam?</p>
         </div>
       </div>
       <div class="card border-light none">
         <img src="/src/assets/images/icon-4.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
-            This card has even longer content than the first to show that equal height action.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+          <h5 class="card-title text-center fs-6 text-body-tertiary">Card title</h5>
+          <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, ab?.</p>
         </div>
       </div>
     </div>
@@ -183,7 +177,16 @@
   <section>
     <div class="row">
        <div class="col-sm-4">
-         <div class="card">
+        <div class="card text-bg-success rounded-0" style="width: 120%;">
+            <div class="card-body">
+             <h5 class="card-title">Special title treatment</h5>
+             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+             <a href="#" class="btn btn-primary">Go somewhere</a>
+           </div>
+         </div>
+       </div>
+       <div class="col-sm-4">
+         <div class="card rounded-0" style="width: 120%;">
            <div class="card-body">
              <h5 class="card-title">Special title treatment</h5>
              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -192,16 +195,7 @@
          </div>
        </div>
        <div class="col-sm-4">
-         <div class="card">
-           <div class="card-body">
-             <h5 class="card-title">Special title treatment</h5>
-             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-             <a href="#" class="btn btn-primary">Go somewhere</a>
-           </div>
-         </div>
-       </div>
-       <div class="col-sm-4">
-         <div class="card">
+         <div class="card rounded-0" style="width: 120%">
            <div class="card-body">
              <h5 class="card-title">Special title treatment</h5>
              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -210,6 +204,8 @@
          </div>
        </div>
     </div>
+
+
 
   </section>
 <!-- SECTION 6 -->
@@ -263,6 +259,14 @@
 img {
   width: 100px;
   margin: 0 auto;
+}
+.section-1 h1,p{
+ padding-top:10px;
+  color: #bcbcbd;
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+
 }
 .section-4{
   background-image:   url("src/assets/images/paralax-bg-tour-facilities.jpg");
