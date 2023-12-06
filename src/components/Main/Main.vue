@@ -205,20 +205,20 @@
   </section>
 <!-- SECTION 6 -->
   <section class="section-6">
-    <h1 class="text-center">Make An Appointment</h1>
+    <h1 class="text-center text-white pt-4">Make An Appointment</h1>
     <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt maiores nam dolore vel
       molestiae quasi reiciendis nemo repellendus nisi accusamus.</p>
       
       <div class="row g-2 mx-auto" style="width:650px">
   <div class="col-md m-4">
-    <div class="form-floating">
-      <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
+    <div class="form-floating ">
+      <input type="email" class="form-control" style="background-color: transparent; color: grey;" id="floatingInputGrid" placeholder="name@example.com" value="Name">
      
     </div>
   </div>
   <div class="col-md m-4">
     <div class="form-floating">
-      <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
+      <input type="email" class="form-control" style="background-color: transparent; color: grey;" id="floatingInputGrid" placeholder="name@example.com" value="Email">
      
     </div>
   </div>
@@ -227,20 +227,23 @@
   <div class="row g-2 mx-auto" style="width:650px">
   <div class="col-md m-4">
     <div class="form-floating">
-      <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
+      <input type="email" class="form-control" style="background-color: transparent; color: grey;" id="floatingInputGrid" placeholder="name@example.com" value="Phone Number">
       
     </div>
   </div>
   <div class="col-md m-4 text-white">
     <div class="form-floating ">
-      <input type="email" class="form-control"  style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
+      <input type="email" class="form-control"  style="background-color: transparent; color: grey;" id="floatingInputGrid" placeholder="name@example.com" value="Appointment Date">
       
     </div>
   </div>
   </div>
 
 <div class="mx-auto p-2" style="width: 600px;">
-  <textarea class="form-control" style="background-color: transparent;" id="exampleFormControlTextarea1" rows="3"></textarea>
+  <textarea class="form-control" style="background-color: transparent; color: grey;" id="exampleFormControlTextarea1" rows="3">How we can Help?</textarea>
+</div>
+<div class="d-grid gap-2 mx-auto" style="width: 600px; background-color: #3aafbf;">
+  <button class="btn text-white" type="button">MAKE AN APPOINTMENT</button>
 </div>
   </section>
 </template>
