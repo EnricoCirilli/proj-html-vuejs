@@ -178,42 +178,30 @@
     </div>
   </section>
 <!-- SECTION 5 -->
+
   <section>
-    <div class="row">
-       <div class="col-sm-4 text-center">
-        <div class="card card-1-sec-5 rounded-0" style="width: 120%;">
-            <div class="card-body">
-             <h5 class="card-title text-center text-white">Emergency Care</h5>
+    <div class="grid gap-0 row-gap-3 d-flex">
+  <div class="p-2 g-col-4 w-100 text-center emergency">
+    <h5 class="card-title text-center text-white">Emergency Care</h5>
              <img src="/src/assets/images/wave-divider.png" alt="">
              <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
              <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
-           </div>
-         </div>
-       </div>
-       <div class="col-sm-4 text-center">
-         <div class="card card-2-sec-5 rounded-0" style="width: 120%;">
-           <div class="card-body">
-             <h5 class="card-title text-center text-white">Special title treatment</h5>
+   
+            
+  </div>
+  <div class="p-2 g-col-4 w-100 text-center treatment">
+    <h5 class="card-title text-center text-white">Special title treatment</h5>
              <img src="/src/assets/images/wave-divider.png" alt="">
              <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
              <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
-           </div>
-         </div>
-       </div>
-       <div class="col-sm-4 text-center">
-         <div class="card  card-3-sec-5 rounded-0" style="width: 120%">
-           <div class="card-body">
-             <h5 class="card-title text-center text-white">Special title treatment</h5>
+  </div>
+  <div class="p-2 g-col-4 w-100 text-center rehab">
+    <h5 class="card-title text-center text-white">Special title treatment</h5>
              <img src="/src/assets/images/wave-divider.png" alt="">
              <p class="card-text text-white ">With supporting text below as a natural lead-in to additional content.</p>
              <a href="#" class="btn border rounded-0 text-white">Learn more</a>
-           </div>
-         </div>
-       </div>
-    </div>
-
-
-
+  </div>
+</div>
   </section>
 <!-- SECTION 6 -->
   <section class="section-6">
@@ -302,6 +290,20 @@ img {
 .card-3-sec-5{
   background-color:#327ec7;
 }
+.emergency{
+  background-color:#3aafbf ;
+  height: 200px;
+}
+.treatment{
+  background-color:#3597c3;
+  height: 200px;
+}
+.rehab{
+  background-color:#327ec7;
+  height: 200px;
+}
+
+
 .section-6{
   background-image: url("src/assets/images/make-an-appointment.jpg");
   background-repeat: no-repeat;
