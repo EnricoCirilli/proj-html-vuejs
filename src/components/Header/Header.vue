@@ -49,7 +49,7 @@ export default {
       <a href="#">
         <img
           id="logo"
-          src="./assets/images/medical_logo_1x_light.png"
+          src="/src/assets/images/medical_logo_1x_light.png"
           alt="logo"
         />
       </a>
