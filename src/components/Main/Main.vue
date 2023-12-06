@@ -43,54 +43,58 @@
     </div>
   </section>
   <!-- section 2 -->
-  <div class="text-center">
-    <img src="/src/assets/images/icon-5.png" alt="">
-    <h2>MEET OUR DOCTOR</h2>
-    <hr>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique quia necessitatibus iste voluptatum excepturi
-      dolorem laudantium ab aperiam ipsam nesciunt.</p>
-  </div>
+
   <section class="section-2">
-    <div class="card-group">
-      <div class="card">
-        <img src="/src/assets/images/doctor-1-200x206.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
-            This content is a little bit longer.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
+  <div class="card mb-3 bg-transparent border-0 pt-5">
+  <img src="/src/assets/images/icon-5.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title text-center">MEET OUR DOCTOR</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+
+  <div class="row ms-5 mt-5">
+  <div class="col ms-5">
+    <div class="card  text-center w-50 ms-5 border-0 ">
+      <img src="/src/assets/images/doctor-1.jpg" class="card-img-top w-100 rounded-0" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text text-start">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook" style="color:#3c5998"></i></small>
           <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
-        </div>
-      </div>
-      <div class="card">
-        <img src="/src/assets/images/doctor-2-200x206.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
-        </div>
-      </div>
-      <div class="card">
-        <img src="/src/assets/images/doctor-3-200x206.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
-            This card has even longer content than the first to show that equal height action.</p>
-        </div>
-        <div class="card-footer">
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"></i></small>
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
-          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram"></i></small>
-        </div>
+          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram" style="color:#3f729b"></i></small>
       </div>
     </div>
+  </div>
+  <div class="col">
+    <div class="card text-center w-50 ms-4 border-0">
+      <img src="/src/assets/images/doctor-2.jpg" class="card-img-top w-100 rounded-0" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+       
+        <p class="card-text text-start">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook" style="color:#3c5998"></i></small>
+          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
+          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram" style="color:#3f729b"></i></small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card text-center w-50 border-0">
+      <img src="/src/assets/images/doctor-3.jpg" class="card-img-top w-100 rounded-0" alt="Nurse Practicioner">
+      <div class="card-body ">
+        <h5 class="card-title">Anna Smith</h5>
+        <h6>Nurse Practicioner</h6>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+        <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook" style="color:#3c5998"></i></small>
+          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-x-twitter"></i></small>
+          <small class="text-body-secondary m-2"><i class="fa-brands fa-square-instagram" style="color:#3f729b"></i></small>
+      </div>
+    </div>
+  </div>
+</div>
+
+   
   </section>
 
   <!-- section 3 -->
@@ -98,63 +102,61 @@
     <div class="text-center">
       <img src="/src/assets/images/icon-6.png" alt="">
       <h2>OUR HEALTH SERVICES</h2>
-      <hr>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique quia necessitatibus iste voluptatum excepturi
         dolorem laudantium ab aperiam ipsam nesciunt.</p>
     </div>
     <div class="card-group">
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-14.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">Card title</h5>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
             This content is a little bit longer.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
         </div>
       </div>
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-15.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">DENTAL IMPLANTS</h5>
           <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+         
         </div>
       </div>
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-16.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">Card title</h5>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
             This card has even longer content than the first to show that equal height action.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+         
         </div>
       </div>
     </div>
     <div class="card-group">
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-11.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">Card title</h5>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
             This content is a little bit longer.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+          
         </div>
       </div>
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-12.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">Card title</h5>
           <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+         
         </div>
       </div>
       <div class="card border border-0">
-        <img src="..." class="card-img-top" alt="...">
+        <img src="/src/assets/images/icon-13.png" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title text-center">Card title</h5>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.
             This card has even longer content than the first to show that equal height action.</p>
-          <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+
         </div>
       </div>
     </div>
@@ -251,7 +253,9 @@
   </section>
 </template>
 
-<style lang="scss" scoped>// General style
+<style lang="scss" scoped>
+
+// General style
 .none {
   border: none;
 }
@@ -267,6 +271,12 @@ img {
   margin: 0 auto;
   width: 50%;
 
+}
+.section-2{
+  background-color: rgb(248, 247, 247);
+  height: 1000px;
+  width:100%;
+  
 }
 .section-4{
   background-image:   url("src/assets/images/paralax-bg-tour-facilities.jpg");
