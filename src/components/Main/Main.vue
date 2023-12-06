@@ -295,15 +295,15 @@ img {
 }
 .emergency{
   background-color:#3aafbf ;
-  height: 200px;
+  height: 250px;
 }
 .treatment{
   background-color:#3597c3;
-  height: 200px;
+  height: 250px;
 }
 .rehab{
   background-color:#327ec7;
-  height: 200px;
+  height: 250px;
 }
 
 
