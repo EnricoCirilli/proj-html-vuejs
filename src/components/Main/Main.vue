@@ -10,7 +10,7 @@
     <h1 class="text-center">Welcome To Avada Health</h1>
     <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt maiores nam dolore vel
       molestiae quasi reiciendis nemo repellendus nisi accusamus.</p>
-
+<div class="container">
     <div class="card-group">
       <div class="card border-light none">
         <img src="/src/assets/images/icon-1.png" class="card-img-top" alt="...">
@@ -41,6 +41,7 @@
         </div>
       </div>
     </div>
+  </div>
   </section>
   <!-- section 2 -->
 
@@ -52,10 +53,10 @@
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
   </div>
 </div>
-
+<div class="container">
   <div class="row ms-5 mt-5">
   <div class="col ms-5">
-    <div class="card  text-center w-50 ms-5 border-0 ">
+    <div class="card  text-center w-75  border-0 ">
       <img src="/src/assets/images/doctor-1.jpg" class="card-img-top w-100 rounded-0" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -67,7 +68,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card text-center w-50 ms-4 border-0">
+    <div class="card text-center w-75 border-0">
       <img src="/src/assets/images/doctor-2.jpg" class="card-img-top w-100 rounded-0" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -80,7 +81,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card text-center w-50 border-0">
+    <div class="card text-center w-75 border-0">
       <img src="/src/assets/images/doctor-3.jpg" class="card-img-top w-100 rounded-0" alt="Nurse Practicioner">
       <div class="card-body ">
         <h5 class="card-title">Anna Smith</h5>
@@ -93,12 +94,13 @@
     </div>
   </div>
 </div>
-
+</div>
    
   </section>
 
   <!-- section 3 -->
   <section>
+    <div class="container">
     <div class="text-center">
       <img src="/src/assets/images/icon-6.png" alt="">
       <h2>OUR HEALTH SERVICES</h2>
@@ -160,48 +162,51 @@
         </div>
       </div>
     </div>
-
+  </div>
   </section>
 <!-- SECTION 4 -->
   <section>
     <div class="section-4">
       <div class="text-center">
-      <img src="/src/assets/images/icon-6.png" alt="">
-      <h2>OUR HEALTH SERVICES</h2>
+      <img src="/src/assets/images/icon-7.png" alt="">
+      <h2>TOUR OUR FACILITIES</h2>
       <hr>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique quia necessitatibus iste voluptatum excepturi
         dolorem laudantium ab aperiam ipsam nesciunt.</p>
-        <img src="/src/assets/images/icon-6.png" alt="">
+        <img src="/src/assets/images/play-icon.png" style="width: 50px; padding-top: 30px;">
     </div>
     </div>
   </section>
 <!-- SECTION 5 -->
   <section>
     <div class="row">
-       <div class="col-sm-4">
-        <div class="card text-bg-success rounded-0" style="width: 120%;">
+       <div class="col-sm-4 text-center">
+        <div class="card card-1-sec-5 rounded-0" style="width: 120%;">
             <div class="card-body">
-             <h5 class="card-title">Special title treatment</h5>
-             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-             <a href="#" class="btn btn-primary">Go somewhere</a>
+             <h5 class="card-title text-center text-white">Emergency Care</h5>
+             <img src="/src/assets/images/wave-divider.png" alt="">
+             <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
+             <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
            </div>
          </div>
        </div>
-       <div class="col-sm-4">
-         <div class="card rounded-0" style="width: 120%;">
+       <div class="col-sm-4 text-center">
+         <div class="card card-2-sec-5 rounded-0" style="width: 120%;">
            <div class="card-body">
-             <h5 class="card-title">Special title treatment</h5>
-             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-             <a href="#" class="btn btn-primary">Go somewhere</a>
+             <h5 class="card-title text-center text-white">Special title treatment</h5>
+             <img src="/src/assets/images/wave-divider.png" alt="">
+             <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
+             <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
            </div>
          </div>
        </div>
-       <div class="col-sm-4">
-         <div class="card rounded-0" style="width: 120%">
+       <div class="col-sm-4 text-center">
+         <div class="card  card-3-sec-5 rounded-0" style="width: 120%">
            <div class="card-body">
-             <h5 class="card-title">Special title treatment</h5>
-             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-             <a href="#" class="btn btn-primary">Go somewhere</a>
+             <h5 class="card-title text-center text-white">Special title treatment</h5>
+             <img src="/src/assets/images/wave-divider.png" alt="">
+             <p class="card-text text-white ">With supporting text below as a natural lead-in to additional content.</p>
+             <a href="#" class="btn border rounded-0 text-white">Learn more</a>
            </div>
          </div>
        </div>
@@ -212,7 +217,7 @@
   </section>
 <!-- SECTION 6 -->
   <section class="section-6">
-    <h1 class="text-center">Welcome To Avada Health</h1>
+    <h1 class="text-center">Make An Appointment</h1>
     <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt maiores nam dolore vel
       molestiae quasi reiciendis nemo repellendus nisi accusamus.</p>
       
@@ -220,13 +225,13 @@
   <div class="col-md m-4">
     <div class="form-floating">
       <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
-      <label for="floatingInputGrid">Email address</label>
+     
     </div>
   </div>
   <div class="col-md m-4">
     <div class="form-floating">
       <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
-      <label for="floatingInputGrid">Email address</label>
+     
     </div>
   </div>
   </div>
@@ -235,19 +240,18 @@
   <div class="col-md m-4">
     <div class="form-floating">
       <input type="email" class="form-control" style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
-      <label for="floatingInputGrid">Email address</label>
+      
     </div>
   </div>
-  <div class="col-md m-4">
-    <div class="form-floating">
+  <div class="col-md m-4 text-white">
+    <div class="form-floating ">
       <input type="email" class="form-control"  style="background-color: transparent;" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
-      <label for="floatingInputGrid">Email address</label>
+      
     </div>
   </div>
   </div>
 
 <div class="mx-auto p-2" style="width: 600px;">
-  <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
   <textarea class="form-control" style="background-color: transparent;" id="exampleFormControlTextarea1" rows="3"></textarea>
 </div>
   </section>
@@ -282,14 +286,26 @@ img {
   background-image:   url("src/assets/images/paralax-bg-tour-facilities.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  border: 2px solid red;
   height: 500px;
+}
+.section-4 h2{
+  color: #fff;
+  padding-top: 100px;
+}
+
+.card-1-sec-5{
+  background-color:#3aafbf;
+}
+.card-2-sec-5{
+  background-color:#3597c3;;
+}
+.card-3-sec-5{
+  background-color:#327ec7;
 }
 .section-6{
   background-image: url("src/assets/images/make-an-appointment.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  border: 2px solid red;
   height: 500px;
 }
 
