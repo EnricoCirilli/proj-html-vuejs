@@ -8,6 +8,7 @@ export default {
 <template>  
   <!-- NAVIGATION BAR -->
   <div id="nav-bar">
+
     <ul>
       <!-- V-for to cycle in the data array of the nav-bar -->
       <li v-for="item in nav" :key="item.id">
@@ -16,6 +17,7 @@ export default {
         </a>
       </li>
     </ul>
+
     <!-- Navigation bar button  -->
     <button class="uppercase clickable btn-primary-color">
       make appointment
@@ -23,6 +25,9 @@ export default {
   </div>
 
 </template>
+
+
+
   
   <style lang="scss" scoped>
 
@@ -49,6 +54,7 @@ ul {
     }
   }
 }
+
 // Button nav-bar style
 button {
   font-size: 10px;

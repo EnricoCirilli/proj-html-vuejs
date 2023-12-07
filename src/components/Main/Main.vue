@@ -29,14 +29,14 @@
         <div class="card border-light none">
           <img src="/src/assets/images/icon-3.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center fs-6 text-body-tertiary">Card title</h5>
+            <h5 class="card-title text-center fs-6 text-body-tertiary">EXPERT DOCTORS</h5>
             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, laboriosam?</p>
           </div>
         </div>
         <div class="card border-light none">
           <img src="/src/assets/images/icon-4.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center fs-6 text-body-tertiary">Card title</h5>
+            <h5 class="card-title text-center fs-6 text-body-tertiary">COMPLEMENTARY THERAPIES</h5>
             <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, ab?.</p>
           </div>
         </div>
@@ -60,7 +60,7 @@
           <div class="card  text-center w-75  border-0 ">
             <img src="/src/assets/images/doctor-1.jpg" class="card-img-top w-100 rounded-0" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Jon Snow</h5>
               <p class="card-text text-start">This is a longer card with supporting text below as a natural lead-in to
                 additional content. This content is a little bit longer.</p>
               <small class="text-body-secondary m-2"><i class="fa-brands fa-square-facebook"
@@ -75,7 +75,7 @@
           <div class="card text-center w-75 border-0">
             <img src="/src/assets/images/doctor-2.jpg" class="card-img-top w-100 rounded-0" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Tony Stark</h5>
 
               <p class="card-text text-start">This is a longer card with supporting text below as a natural lead-in to
                 additional content. This content is a little bit longer.</p>
@@ -122,7 +122,7 @@
         <div class="card border border-0">
           <img src="/src/assets/images/icon-14.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">REHABILITATION CENTER</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
               content.
               This content is a little bit longer.</p>
@@ -139,7 +139,7 @@
         <div class="card border border-0">
           <img src="/src/assets/images/icon-16.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">MEDICINE RESEARCH</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
               content.
               This card has even longer content than the first to show that equal height action.</p>
@@ -151,7 +151,7 @@
         <div class="card border border-0">
           <img src="/src/assets/images/icon-11.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">BLOOD BANK</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
               content.
               This content is a little bit longer.</p>
@@ -161,7 +161,7 @@
         <div class="card border border-0">
           <img src="/src/assets/images/icon-12.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">PHARMACEUTICAL ADVICE</h5>
             <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
 
           </div>
@@ -169,7 +169,7 @@
         <div class="card border border-0">
           <img src="/src/assets/images/icon-13.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">MEDICAL COUNSELING</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
               content.
               This card has even longer content than the first to show that equal height action.</p>
@@ -206,7 +206,7 @@
         <h5 class="card-title text-center text-white">Emergency Care</h5>
         <img src="/src/assets/images/wave-divider.png" alt="">
         <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
+        <a href="#" class="btn border rounded-0 text-white">Learn More</a>
 
 
       </div>
@@ -214,7 +214,7 @@
         <h5 class="card-title text-center text-white">Special title treatment</h5>
         <img src="/src/assets/images/wave-divider.png" alt="">
         <p class="card-text text-white">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn border rounded-0 text-white">Go somewhere</a>
+        <a href="#" class="btn border rounded-0 text-white">Learn More</a>
       </div>
       <div class="p-2 g-col-4 w-100 text-center rehab">
         <h5 class="card-title text-center text-white">Special title treatment</h5>
